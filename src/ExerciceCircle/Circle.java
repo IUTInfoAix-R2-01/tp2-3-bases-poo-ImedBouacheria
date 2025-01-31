@@ -39,6 +39,13 @@ public class Circle {
 		// TODO Auto-generated method stub
 		return null;
 	}
-	
+		public void setRadius(double newRadius) { 
+	         radius = newRadius; 
+	         
+	      } // Setter pour la variable d'instance color 
+	      public void setColor(String newColor) { 
+	    	  color = newColor ; 
+	      }
 	}
+	
 
