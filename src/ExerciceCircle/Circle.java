@@ -19,7 +19,7 @@ public class Circle {
 	      color = "red";
 	   }
 	   public Circle (double r, String c) { 
-			color = "red" ;
+			color = c ;
 			radius = r; 
 			
 		}
@@ -32,7 +32,9 @@ public class Circle {
 	   public double getArea() {
 	      return radius*radius*Math.PI;
 	   }
-
+	   public String getColor() {
+		   return color;
+	   }
 	public String getArea1() {
 		// TODO Auto-generated method stub
 		return null;
