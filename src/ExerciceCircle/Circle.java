@@ -18,7 +18,11 @@ public class Circle {
 	      radius = r;
 	      color = "red";
 	   }
-	   
+	   public Circle (double r, String c) { 
+			color = "red" ;
+			radius = r; 
+			
+		}
 	   /** Returns the radius */
 	   public double getRadius() {
 	     return radius; 
@@ -33,5 +37,6 @@ public class Circle {
 		// TODO Auto-generated method stub
 		return null;
 	}
+	
 	}
 
