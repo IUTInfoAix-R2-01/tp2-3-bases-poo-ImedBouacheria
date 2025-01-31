@@ -7,5 +7,4 @@ Ne pas modifier ce fichier.
 
 Les fichiers sources, qui répondent au sujet, doivent tous être rangés dans le dossier principal, sans sous-dossiers.
 
-
-Modifié par imed 
+Modifié par imed a 14h47
