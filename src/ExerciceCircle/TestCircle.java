@@ -7,7 +7,7 @@ public class TestCircle {  // Save as "TestCircle.java"
       // which sets its radius and color to their default value.
       Circle c1 = new Circle();
       // Invoke public methods on instance c1, via dot operator.
-      System.out.println("The circle has radius of " + c1.getRadius() + " and area of " + c1.getArea());
+      System.out.println("The circle has radius of " + c1.getRadius(5.0) + " and area of " + c1.getArea());
       //The circle has radius of 1.0 and area of 3.141592653589793
    
       // Declare an instance of class circle called c2.
